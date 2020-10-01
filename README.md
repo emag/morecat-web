@@ -1,4 +1,4 @@
-# morecat-web
+# pari-web
 
 This is Web Front-End for [MoreCat](https://github.com/emag/morecat).
 
